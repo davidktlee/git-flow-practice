@@ -16,3 +16,15 @@
 
 - Name: Peter Benjamin Parker
 
+# Amazing Spider-Man 1
+
+- year: 2012
+
+- Name: Peter Benjamin Parker
+
+# Amazing Spider-Man 2
+
+- year: 2014
+
+- Name: Peter Benjamin Parker
+
